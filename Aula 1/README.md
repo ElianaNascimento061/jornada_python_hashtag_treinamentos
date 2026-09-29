@@ -1,4 +1,4 @@
-# 🤖 Automação de Cadastro de Produtos com Python
+# 🤖 Aula 1 - Automação e bots
 
 Projeto desenvolvido durante a aula 1 da Jornada Python, da Hashtag Treinamentos, com o objetivo de aplicar conceitos básicos de automação de tarefas repetitivas utilizando Python.
 
