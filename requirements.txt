@@ -1,0 +1,6 @@
+pyautogui
+pandas
+openpyxl
+nbformat
+ipykernel
+plotly
