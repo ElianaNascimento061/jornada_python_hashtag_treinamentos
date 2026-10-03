@@ -42,7 +42,7 @@ Ao longo de quatro aulas, serão desenvolvidos projetos que exploram diferentes 
 <details>
   <summary>🛒 Aula 4 — Sistema de Vendas e Gestão Online</summary>
 
-  Desenvolvimento de um sistema online voltado ao gerenciamento de vendas, com funcionalidades para organizar informações e acompanhar operações comerciais.
+  Desenvolvimento de um sistema online voltado ao gerenciamento de vendas, com funcionalidades para cadastrar e visualizar as vendas de produtos realizadas, além de acompanhar alguns indicadores e métricas por meio de gráficos.
 
   **Conceitos:** Python, desenvolvimento de sistemas e gestão online.
 
