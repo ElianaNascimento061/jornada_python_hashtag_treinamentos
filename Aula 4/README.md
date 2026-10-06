@@ -57,7 +57,7 @@ Durante o desenvolvimento deste projeto, foram aplicados os seguintes conceitos:
 
 - **Eliana Silva Nascimento**
 
-- [GitHub](https://github.com/elianasilvanascimentoweb061)
+- [GitHub](https://github.com/ElianaNascimento061)
 - [LinkedIn](https://www.linkedin.com/in/eliana-da-silva-nascimento-728121250/)
 
 ---
