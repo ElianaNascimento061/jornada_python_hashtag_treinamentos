@@ -57,5 +57,5 @@ Este projeto foi desenvolvido para fins educacionais, como parte das atividades 
 
 **Eliana Silva Nascimento**
 
-- [GitHub](https://github.com/elianasilvanascimentoweb061)
+- [GitHub](https://github.com/ElianaNascimento061)
 - [LinkedIn](https://www.linkedin.com/in/eliana-da-silva-nascimento-728121250/)
